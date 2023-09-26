@@ -1,0 +1,24 @@
+[
+    {
+        "normpasien": "1",
+        "namapasien": "John Doe",
+        "tempatlahir": "Kendari",
+        "tglpasien": "15 juli 2010",
+        "jeniskelamin": "Laki-laki",
+        "kepesertaan": {
+            "tipepasien": "umum",
+            "nomorkartu": "u1"
+        }
+    },
+    {
+        "normpasien": "2",
+        "namapasien": "Doe rose",
+        "tempatlahir": "Kendari",
+        "tglpasien": "15 juli 2010",
+        "jeniskelamin": "perempuan",
+        "kepesertaan": {
+            "tipepasien": "bpjs",
+            "nomorkartu": "001722222"
+        }
+    }
+]
